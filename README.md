@@ -1,8 +1,16 @@
 <div align="center">
     <img src="superwarden-logo.png" width=100 height=100>
-    <h1>Superwarden</h1>
+    <h1>Superwarden V2</h1>
     <strong>The Decentralised, Off-Chain, Gasless Governance & Voting Platform for TRON-Based DAOs.</strong>
 </div>
+
+## V2 Major Updates:
+
+1. Introducing more proposal modes and strategies
+
+2. Profile system upgrade
+
+3. Introducing voting completion points and badges system
 
 <br>
 
